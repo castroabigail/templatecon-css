@@ -1,0 +1,22 @@
+button{
+	display: block;
+	margin: auto;
+}
+.seccion1{
+	background-color: #ADFF2F;
+	text-align: center;
+	color: #8B0000;
+
+}
+.seccion2{
+	background-color: #B0C4DE;
+	color: 	#F08080;
+}
+.seccion3{
+	background-color: #FFD700;
+	color: 	#FFEFD5;
+}
+.seccion4{
+	background-color: #808000;
+	color: white;
+}
